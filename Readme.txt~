@@ -1,0 +1,28 @@
+
+					*ACN - FreeScale Topology Generation*
+					 -----------------------------------
+
+
+
+How to run the project
+----------------------
+
+1. Import the project and compile it
+
+2. Run the "TCPServer" file, it contains the "main" method, this class is the start of execution of system.
+
+------------------------------------------------------------------------------------------------------------
+
+Example
+
+a) Compile and run the program
+
+java TCPServer
+
+b) Enter the arguments in the given order when prompted
+
+Node number,IP address,TCP Port number,UDP Port number  
+
+Example input : 4,net31,1232,5454
+
+
